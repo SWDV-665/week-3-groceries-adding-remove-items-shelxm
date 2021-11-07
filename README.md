@@ -3,7 +3,7 @@ week-3-groceries-adding-remove-items-shelxm created by GitHub Classroom
 
 By end of this week, the Groceries app should be able to perform add and remove items. For our week 3 assignment, complete the following steps:
 
-  Access the assignment on GitHub Classroom. Here is the GitHub Classroom assignment link: https://classroom.github.com/a/9urKZsdN (Links to an external site.).
+  Access the assignment on GitHub Classroom.
   As discussed in the video, the current status of the app should do add and delete operations.
   Capture the screenshots of each tab or screencast walking through the flow of each tab.
   Create a folder called 'screenshots' or 'screencasts' and depending on what you generate. It is OK to have both screenshots and screencasts.
